@@ -27,3 +27,15 @@ Misclassified Images
 GradCam Output
 ![image](https://user-images.githubusercontent.com/36323558/85954468-537a2180-b995-11ea-928e-5bc349a83fb4.png)
 
+Annotation
+
+Objective
+
+To download 50 images of dog and annotate them with bounding boxes around dogs
+
+Find best number of clusters
+
+Best number of clusters - 3
+
+
+
